@@ -6,7 +6,7 @@
 We're PrimeTech, a robotics team participating in the FIRST Tech Challenge, and not only.
 
 ## Contact
-- 📧 Email: primetechro025@gmail.com
+- 📧 primetechro025@gmail.com
 - [💻 Website](https://primetechrobotics.com/)
 - [📷 Instagram](https://www.instagram.com/primetech_ro025/)
 - [📺 YouTube](https://www.youtube.com/@primetechro0259)
