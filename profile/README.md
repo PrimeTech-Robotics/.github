@@ -7,8 +7,9 @@ We're PrimeTech (RO025), a robotics team participating in the FIRST Tech Challen
 
 ## Contact
 - 📧 primetechro025@gmail.com
-- [💻 Website](https://primetechrobotics.com/)
-- [📷 Instagram](https://www.instagram.com/primetech_ro025/)
+- [💻 Website](https://primetechrobotics.com)
+- [📷 Instagram](https://www.instagram.com/primetech_ro025)
 - [📺 YouTube](https://www.youtube.com/@primetechro0259)
+- [💼 LinkedIn](https://www.linkedin.com/company/primetechrobotics)
 
 <img width="100%" src="robot.png" />
