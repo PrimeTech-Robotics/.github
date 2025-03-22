@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there 👋
-We're PrimeTech (19056), a robotics team participating in the FIRST Tech Challenge, and not only.
+We're PrimeTech (#19056), a robotics team participating in the FIRST Tech Challenge, and not only.
 
 ## Contact
 - 📧 primetechro025@gmail.com
